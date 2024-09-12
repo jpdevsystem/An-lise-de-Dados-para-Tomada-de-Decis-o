@@ -1,0 +1,25 @@
+# Relatório Final: Análise de Distribuição nas Indústrias Automotiva e de Artesanato
+
+## Introdução
+Este relatório apresenta os resultados da análise dos dados de distribuição de produtos nas indústrias automotiva e de artesanato. Utilizamos uma série de ferramentas de visualização e análise estatística para identificar padrões e oferecer recomendações estratégicas.
+
+## Metodologia
+Os dados foram carregados a partir de um arquivo CSV disponibilizado via Google Drive. Utilizamos `pandas` para manipulação dos dados e `seaborn` e `matplotlib` para a visualização dos mesmos.
+
+## Análise Exploratória
+### 1. Estatísticas Descritivas
+As estatísticas descritivas revelam uma distribuição assimétrica nas variáveis X e Y. A média e o desvio padrão indicam...
+
+### 2. Histograma
+O histograma mostra uma distribuição normal para a variável `preco`, sugerindo que...
+
+### 3. Gráfico de Dispersão
+O gráfico de dispersão entre `preco` e `quantidade` sugere uma correlação positiva...
+
+### 4. Boxplot
+O boxplot indica a presença de outliers significativos na variável `lucro`.
+
+### 5. Matriz de Correlação
+A matriz de correlação indica uma forte correlação positiva entre `preco` e `lucro`, enquanto...
+
+## Conclus
