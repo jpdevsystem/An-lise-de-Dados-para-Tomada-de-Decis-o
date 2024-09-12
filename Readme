@@ -1,0 +1,27 @@
+# Análise de Dados: Indústrias Automotiva e de Artesanato
+
+## Objetivo
+Este projeto tem como objetivo analisar a distribuição de produtos nas indústrias automotiva e de artesanato, identificando padrões, tendências e correlações que possam orientar decisões de negócios e estratégias de mercado.
+
+## Estrutura do Projeto
+- `data/`: Contém o arquivo de dados de entrada (`dataset.csv`).
+- `notebooks/`: Contém o notebook Jupyter com as análises realizadas.
+- `src/`: Contém o script Python principal que realiza as análises.
+- `report.md`: Relatório final da análise com explicações detalhadas.
+- `requirements.txt`: Lista de pacotes necessários para executar o projeto.
+
+## Como Executar
+
+### 1. Clonar o repositório
+```bash
+git clone <url-do-repositorio>
+cd data-analysis-project
+2. Instalar as dependências
+pip install -r requirements.txt
+3. Executar a análise
+Você pode rodar o notebook ou o script Python para realizar a análise:
+
+Para o notebook:
+jupyter notebook notebooks/analysis.ipynb
+Para o script Python:
+python src/main.py
