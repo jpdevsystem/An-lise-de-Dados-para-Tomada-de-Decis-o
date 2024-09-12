@@ -1,0 +1,14 @@
+data-analysis-project/
+│
+├── data/
+│   └── dataset.csv             # Arquivo CSV contendo os dados de entrada
+│
+├── notebooks/
+│   └── analysis.ipynb          # Notebook Jupyter contendo as análises
+│
+├── src/
+│   └── main.py                 # Script Python principal contendo as análises
+│
+├── README.md                   # Instruções de uso e resumo do projeto
+├── report.md                   # Relatório final da análise
+└── requirements.txt            # Arquivo com dependências do projeto
